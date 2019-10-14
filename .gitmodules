@@ -1,0 +1,3 @@
+[submodule "wp-content/themes/understrap"]
+	path = wp-content/themes/understrap
+	url = https://github.com/understrap/understrap.git
